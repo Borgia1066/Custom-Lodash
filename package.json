@@ -1,0 +1,25 @@
+{
+  "name": "Custom-Lodash",
+  "version": "1.0.0",
+  "description": "Your task is to implement 'custom' version of the lodash library following next requirements: 1. Usage of `Array.prototype.* or `Object.prototype.*` is **strictly forbidden**. 2. You can create your own additional service functions (if needed). 3. You should use ES6+ features (any feature which supported by latest stable Chrome). 4. Lodash chain is out of scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borgia1066/Custom-Lodash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borgia1066/Custom-Lodash/issues"
+  },
+  "homepage": "https://github.com/Borgia1066/Custom-Lodash#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
