@@ -9,6 +9,7 @@ const push = require("../Implemented/push");
  * @param {number} size The length of each chunk
  * @returns {Array} Returns the new array of chunks.
  */
+
 function chunk(array, size = 1) {
   if (length(array) === 0) {
     return [];
